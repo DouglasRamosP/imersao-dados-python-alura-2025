@@ -10,7 +10,7 @@
 
 ### 🚀 Análise e visualização inteligente de salários em Data Science com filtros interativos
 
-[![🌐 Acesse o Dashboard](https://img.shields.io/badge/🌐_Acesse_o_Dashboard-FF6B6B?style=for-the-badge&labelColor=4ECDC4)](link do dash)
+[![🌐 Acesse o Dashboard](https://img.shields.io/badge/🌐_Acesse_o_Dashboard-FF6B6B?style=for-the-badge&labelColor=4ECDC4)](https://imersao-dados-python-alura-2025-douglas.streamlit.app/)
 
 ![Status](https://img.shields.io/badge/status-✅_completo-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python)
@@ -31,7 +31,7 @@
 Para começar a usar a plataforma, basta acessar o [link](https://projeto-aprova.streamlit.app):
 
 ```
-link do dash
+https://imersao-dados-python-alura-2025-douglas.streamlit.app
 ```
 ---
 
@@ -116,5 +116,4 @@ link do dash
 
 ### **Douglas Ramos Pimenta** 👨‍💻
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xguimiranda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-ramos-pimenta-83a4b7143/)
